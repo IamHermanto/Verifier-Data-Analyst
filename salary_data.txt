@@ -1,0 +1,169 @@
+pay1,pay2
+"[{'base_pay': 686531.24}, {'shift_loading': 158337.23}, {'net': 510601.26}, {'kiwi saver employee':
+25346.06}, {'ird_number': 52148169}, {'future_total_positions': 1}]","[{'base_pay': 491658.29},
+{'shift_loading': 71505.32}, {'net': 343601.98}, {'SG': 67579.63}, {'emp_number':
+29764817766792}, {'future_total_positions': 1}]"
+"[{'base_pay': 4713.9}, {'shift_loading': 431.19}, {'net': 4950.51}, {'kiwi saver employee': 154.35},
+{'ird_number': 58240931}, {'future_total_positions': 19}]","[{'base_pay': 3003.55}, {'shift_loading':
+339.74}, {'net': 3343.29}, {'SG': 401.19}, {'emp_number': 29888963946595},
+{'future_total_positions': 29}]"
+"[{'base_pay': 12685.28}, {'shift_loading': 2426.04}, {'net': 13045.51}, {'kiwi saver employee':
+453.34}, {'ird_number': 102536924}, {'future_total_positions': 6}]","[{'base_pay': 8913.95},
+{'shift_loading': 704.56}, {'net': 9618.51}, {'SG': 1154.22}, {'emp_number': 30848388986318},
+{'future_total_positions': 10}]"
+"[{'base_pay': 30526.55}, {'shift_loading': 10399.94}, {'net': 33591.44}, {'kiwi saver employee':
+1227.79}, {'ird_number': 67272366}, {'future_total_positions': 2}]","[{'base_pay': 20221.15},
+{'shift_loading': 7039.85}, {'net': 25811.24}, {'SG': 3271.32}, {'emp_number': 75026093455037},
+{'future_total_positions': 3}]"
+"[{'base_pay': 28591.88}, {'shift_loading': 19706.93}, {'net': 35477.43}, {'kiwi saver employee':
+1298.96}, {'ird_number': 120112821}, {'future_total_positions': 2}]","[{'base_pay': 18410.18},
+{'shift_loading': 8855.41}, {'net': 25815.09}, {'SG': 3271.87}, {'emp_no': 39635620204546},
+{'future_total_positions': 3}]"
+"[{'base_pay': 36003.49}, {'shift_loading': 12681.83}, {'net': 39731.34}, {'kiwi saver employee':
+1460.56}, {'ird_number': 138113450}, {'future_total_positions': 2}]","[{'base_pay': 22997.45},
+{'shift_loading': 9259.79}, {'net': 30008.08}, {'SG': 3870.87}, {'emp_number': 15567044316147},
+{'future_total_positions': 3}]"
+"[{'base_pay': 43628.93}, {'shift_loading': 15007.48}, {'net': 46801.08}, {'kiwi saver employee':
+1759.09}, {'ird_number': 44157551}, {'future_total_positions': 1}]","[{'base_pay': 29798.49},
+{'shift_loading': 8568.28}, {'net': 35140.09}, {'SG': 4604.01}, {'emp_number': 81405186003340},
+{'future_total_positions': 2}]"
+"[{'base_pay': 76706.46}, {'shift_loading': 11111.22}, {'net': 65980.81}, {'kiwi saver employee':
+2634.53}, {'ird_number': 130828683}, {'future_total_positions': 1}]","[{'base_pay': 52569.36},
+{'shift_loading': 5726.73}, {'net': 50019.27}, {'SG': 6995.53}, {'emp_number': 73521995254319},
+{'future_total_positions': 1}]"
+"[{'base_pay': 75735.98}, {'shift_loading': 13996.64}, {'net': 67206.37}, {'kiwi saver employee':
+2691.98}, {'ird_number': 146498809}, {'future_total_positions': 1}]","[{'base_pay': 54314.83},
+{'shift_loading': 5017.51}, {'net': 50744.64}, {'SG': 7119.88}, {'emp_number': 56576671328778},
+{'future_total_positions': 1}]"
+"[{'base_pay': 85475.9}, {'shift_loading': 7039.69}, {'net': 68987.47}, {'kiwi saver employee':
+2775.47}, {'ird_number': 68580250}, {'future_total_positions': 1}]","[{'base_pay': 39271.77},
+{'shift_loading': 21877.81}, {'net': 52016.7}, {'SG': 7337.95}, {'emp_number': 75057690685746},
+{'future_total_positions': 1}]"
+"[{'base_pay': 75490.36}, {'shift_loading ': 19933.13}, {'net': 70848.52}, {'kiwi saver employee':
+2862.7}, {'ird_number': 22655701}, {'future_total_positions': 1}]","[{'base_pay': 51001.83},
+{'shift_loading': 12477.57}, {'net': 53647.58}, {'SG': 7617.53}, {'emp_number': 50862213247591},
+{'future_total_positions': 1}]"
+"[{'base_pay': 68712.07}, {'shift_loading': 32592.8}, {'net': 74612.61}, {'kiwi saver employee':
+3039.15}, {'ird_number': 38559400}, {'future_total_positions': 1}]","[{'base_pay': 50443.09},
+{'shift_loading': 14764.96}, {'net': 54857.63}, {'SG': 7824.97}, {'emp_number': 58102141196612},
+{'future_total_positions': 1}]"
+"[{'bese_pay': 87154.31}, {'shift_loading': 13226.32}, {'net': 74021.09}, {'kiwi saver employee':
+3011.42}, {'ird_number': 81416354}, {'future_total_positions': 1}]","[{'base_pay': 46878.01},
+{'shift_loading': 19047.58}, {'net': 55359.91}, {'SG': 7911.07}, {'emp_number': 46707232976489},
+{'future_total_positions': 1}]"
+"[{'base_pay': 91042.28}, {'shift_loading': 12010.7}, {'net': 75731.4}, {'kiwi saver employee':
+3091.59}, {'ird_number': 14009019}, {'future_total_positions': 1}]","[{'base_pay': 45335.9},
+{'shift_loading': 21496.03}, {'net': 55994.35}, {'SG': 8019.83}, {'emp_number': 64009445668931},
+{'future_total_positions': 1}]"
+"[{'base_pay': 90280.43}, {'shift_loading': 19870.22}, {'net': 80273.91}, {'kiwi saver employee':
+3304.52}, {'ird_number': 36813679}, {'future_total_positions': 1}]","[{'base_pay': 53808.03},
+{'shift_loading': 18124.3}, {'net': 59564.63}, {'SG': 8631.88}, {'emp_number': 11398533327998},
+{'future_total_positions': 1}]"
+"[{'base_pay': 96550.29}, {'shift_loading': 12335.76}, {'net': 79464.56}, {'kiwi saver employee':
+3266.58}, {'ird_number': 78954590}, {'future_total_positions': 1}]","[{'base_pay': 67788.94},
+{'shift_loading': 4194.39}, {'net': 59600.33}, {'SG': 8638.0}, {'emp_number': 36636652098927},
+{'future_total_positions': 1}]"
+"[{'base_pay': 89006.83}, {'shift_loading': 22528.51}, {'net': 81160.11}, {'kiwi saver employee':
+3346.06}, {'ird_number': 134363126}, {'future_total_positions': 1}]","[{'base_pay': 54015.23},
+{'shift_loading': 18642.04}, {'net': 60072.09}, {'SG': 8718.87}, {'emp_number': 59557247655214},
+{'future_total_positions': 1}]"
+"[{'base_pay': 88081.4}, {'shift_loading': 21028.2}, {'net': 79607.64}, {'kiwi sever employee':
+3273.29}, {'ird_number': 67354710}, {'future_total_positions': 1}]","[{'base_pay': 58579.38},
+{'shift_loading': 14098.58}, {'net': 60086.58}, {'SG': 8721.36}, {'emp_number': 31905062393594},
+{'future_total_positions': 1}]"
+"[{'base_pay': 88062.43}, {'shift_loading': 25301.29}, {'net': 82330.27}, {'kiwi saver employee':
+3400.91}, {'ird_number': 53532403}, {'future_total_positions': 1}]","[{'base_pay': 65244.73},
+{'shift_loading': 10185.66}, {'net': 62013.27}, {'SG': 9051.65}, {'emp_number': 92207123144588},
+{'future_total_positions': 1}]"
+"[{'base_pay': 74031.86}, {'shift_loading': 40191.2}, {'net': 82880.25}, {'kiwi saver employee':
+3426.69}, {'ird_number': 11809383}, {'future_total_positions': 1}]","[{'base_pay': 57572.61},
+{'shift_loading': 18545.24}, {'net': 62494.5}, {'SG': 9134.14}, {'emp_numbar': 35493602674029},
+{'future_total_positions': 1}]"
+"[{'base_pay': 80977.17}, {'shift_load': 39073.44}, {'net': 86609.88}, {'kiwi saver employee':
+3601.52}, {'ird_number': 132581096}, {'future_total_positions': 1}]","[{'base_pay': 75860.22},
+{'shift_loading': 3911.17}, {'net': 65051.97}, {'SG': 9572.57}, {'emp_number': 54272632389400},
+{'future_total_positions': 1}]"
+"[{'base_pay': 78549.71}, {'shift_loading': 42285.34}, {'net': 87111.92}, {'kiwi saver employee':
+3625.05}, {'ird_number': 92467007}, {'future_total_positions': 1}]","[{'base_pay': 76055.37},
+{'shift_loading': 4173.24}, {'net': 65372.03}, {'SG': 9627.43}, {'emp_number': 28300836731924},
+{'future_total_positions': 1}]"
+"[{'base_pay': 102916.68}, {'shift_loading': 19072.91}, {'net': 87850.83}, {'kiwi saver employee':
+3659.69}, {'ird_number': 63453757}, {'future_total_positions': 1}]","[{'base_pay': 58449.32},
+{'shift_loading': 22666.04}, {'net': 65992.75}, {'SG': 9733.84}, {'emp_number': 71769003233473},
+{'future_total_positions': 1}]"
+"[{'base_pay': 95016.69}, {'shift_loading': 33281.27}, {'net': 91888.18}, {'kiwi saver employee':
+3848.94}, {'ird_number': 66367827}, {'future_total_positions': 1}]","[{'base_pay': 67410.21},
+{'shift_loading': 16945.39}, {'net': 68260.92}, {'SG': 10122.67}, {'emp_number':
+39323173201297}, {'future_total_positions': 1}]"
+"[{'base_pay': 102633.75}, {'shift_loading': 25220.12}, {'net': 91603.97}, {'kiwi saver employee':
+3835.62}, {'ird_number': 121618532}, {'future_total_positions': 1}]","[{'base_pay': 62541.01},
+{'shift_loading': 22400.75}, {'net': 68671.23}, {'SG': 10193.01}, {'emp_number':
+59401146398387}, {'future_total_positions': 1}]"
+"[{'base_pay': 124114.61}, {'shift_loading': 9281.53}, {'net': 95151.02}, {'kiwi saver employee':
+4001.88}, {'ird_number': 42839698}, {'future_total_positions': 1}]","[{'base_pay': 64860.88},
+{'shift_loading': 23850.02}, {'net': 71309.62}, {'SG': 10645.31}, {'emp_number':
+60627362966981}, {'future_total_positions': 1}]"
+"[{'base_pay': 97250.81}, {'shift_loading': 37862.26}, {'net': 96249.86}, {'kiwi saver employee':
+4053.39}, {'ird_number': 48519946}, {'future_total_positions': 1}]","[{'base_pay': 58371.49},
+{'shift_loading': 31182.28}, {'net': 71899.64}, {'SG': 10746.45}, {'emp_number':
+43838453420208}, {'future_total_positions': 1}]"
+"[{'base_pay': 686531.34}, {'shift_loading': 158337.23}, {'net': 510601.26}, {'kiwi saver employee':
+25346.06}, {'ird_number': 51148169}, {'future_total_positions': 1}]","[{'base_pay': 491658.29},
+{'shift_loading': 71505.32}, {'net': 343601.98}, {'SG': 67579.63}, {'emp_number':
+29764817766792}, {'future_total_positions': 1}]"
+"[{'base_pay': 104007.1}, {'shift_loading': 30835.45}, {'net': 96076.73}, {'kiwi saver employee':
+4045.28}, {'ird_number': 101415554}, {'future_total_positions': 1}]","[{'base_pay': 74983.24},
+{'shift_loading': 14810.53}, {'net': 72067.64}, {'SG': 10775.25}, {'emp_number':
+86478719948014}, {'future_total_positions': 1}]"
+"[{'base_pay': 125529.16}, {'shift_loading': 16830.25}, {'net': 100887.51}, {'kiwi saver employee':
+4270.78}, {'ird_number': 33795092}, {'future_total_positions': 1}]","[{'base_pay': 75141.2},
+{'shift_loading': 18684.75}, {'net': 74890.17}, {'SG': 11259.11}, {'emp_number':
+85959690081896}, {'future_total_positions': 1}]"
+"[{'base_pay': 106448.44}, {'shift_loading': 42803.02}, {'net': 105298.43}, {'kiwi saver employee':
+4477.54}, {'ird_number': 13533636}, {'future_total_positions': 1}]","[{'base_pay': 65285.82},
+{'shift_loading': 34163.51}, {'net': 78826.53}, {'SG': 11933.92}, {'emp_number':
+88917994371942}, {'future_total_positions': 1}]"
+"[{'base_pay': 103316.34}, {'shift_loading': 52132.23}, {'net': 109264.57}, {'kiwi saver employee':
+4663.46}, {'ird_number': 26399057}, {'future_total_positions': 1}]","[{'base_pay': 73458.42},
+{'shift_loading': 27284.53}, {'net': 79732.06}, {'SG': 12089.15}, {'emp_number':
+72976756716558}, {'future_total_positions': 1}]"
+"[{'base_pay': 120410.5}, {'shift_loading': 43922.97}, {'net': 114950.91}, {'kiwi saver employee':
+4930.0}, {'ird_number': 23257548}, {'future_total_positions': 1}]","[{'base_pay': 101039.51},
+{'shift_loading': 7529.82}, {'net': 85210.53}, {'SG': 13028.32}, {'emp_number': 40746267763955},
+{'future_total_postions': 1}]"
+"[{'base_pay': 113749.33}, {'shift_loading': 50725.57}, {'net': 115041.43}, {'kiwi saver employee':
+4934.25}, {'ird_number': 133939180}, {'future_total_positions': 1}]","[{'base_pay': 78475.86},
+{'shift_loading': 31026.39}, {'net': 85863.57}, {'SG': 13140.27}, {'emp_number':
+22084874153197}, {'future_total_positions': 1}]"
+"[{'base_pay': 206368.66}, {'shift_loading': 13757.15}, {'net': 148250.46}, {'kiwi saver employee':
+6603.77}, {'ird_number': 11197639}, {'future_total_positions': 1}]","[{'base_pay': 100722.1},
+{'shift_loading': 46024.75}, {'net': 111112.52}, {'SG': 17609.62}, {'emp_number':
+91902224431056}, {'future_total_positions': 1}]"
+"[{'base_pay': 200648.51}, {'shift_loading': 22641.99}, {'net': 150085.98}, {'kiwi saver employee':
+6698.71}, {'ird_number': 129289511}, {'future_total_positions': 1}]","[{'base_pay': 117688.37},
+{'shift_loading': 30045.37}, {'net': 111734.25}, {'SG': 17728.05}, {'emp_number':
+20638437045695}, {'future_total_positions': 1}]"
+"[{'base_pay': 251201.22}, {'shift_loading': 46893.52}, {'net': 193472.43}, {'kiwi saver employee':
+8942.84}, {'ird_number': 140176575}, {'future_total_positions': 1}]","[{'base_pay': 189086.51},
+{'shift_loading': 8825.25}, {'net': 142713.47}, {'SG': 23749.41}, {'emp_number':
+81471224064510}, {'future_total_positions': 1}]"
+"[{'base_pay': 292923.18}, {'shift_loading': 25864.04}, {'net': 205474.07}, {'kiwi saver employee':
+9563.62}, {'ird_no': 50747654}, {'future_total_positions': 1}]","[{'base_pay': 151853.06},
+{'shift_loading': 59801.32}, {'net': 150271.9}, {'SG': 25398.52}, {'emp_number':
+46847098611018}, {'future_total_positions': 1}]"
+"[{'base_pay': 387761.4}, {'shift_loading': 44441.2}, {'net': 271254.99}, {'kiwi saver employee':
+12966.08}, {'ird_number': 51195752}, {'future_total_positions': 1}]","[{'base_pay': 245538.55},
+{'shift_loading': 41613.04}, {'net': 191795.38}, {'SG': 34458.19}, {'emp_number':
+54922046739292}, {'future_total_positions': 1}]"
+"[{'base_pay': 339360.11}, {'shift_loading': 145646.23}, {'net': 301881.17}, {'kiwi saver employee':
+14550.19}, {'ird_number': 65941856}, {'future_total_positions': 1}]","[{'base_pay': 285693.99},
+{'shift_loading': 37592.28}, {'net': 211669.45}, {'SG': 38794.35}, {'emp_number':
+53572712964325}, {'future_total_positions': 1}]"
+"[{'base_pay': 672199.76}, {'shift_loading': 54016.8}, {'net': 441783.1}, {'kiwi saver employee':
+21786.5}, {'ird_number': 87903036}, {'future_total_positions': 1}]","[{'base_pay': 346456.78},
+{'shift_loading': 137391.66}, {'net': 299978.65}, {'SG': 58061.81}, {'emp_number':
+14117899069212}, {'future_total_positions': 1}]"
+"[{'base_pay': 686531.34}, {'shift_loading': 158337.23}, {'net': 510601.26}, {'kiwi saver employee':
+25346.06}, {'ird_number': 51148169}, {'future_total_positions': 1}]","[{'base_pay': 491658.29},
+{'shift_loading': 71505.32}, {'net': 343601.98}, {'SG': 67579.63}, {'emp_number':
+29764817766792}, {'future_total_positions': 1}]"
